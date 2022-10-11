@@ -31,7 +31,7 @@ There are 2 versions (1.0 and 1.1) as I said this is my first game and because o
 
 You can play it on browser from this links:
 - Version 1.1 https://satas20.itch.io/helllll11 
-- https://satas20.itch.io/helllll   ver 1.0
+- Version 1.0 https://satas20.itch.io/helllll  
 
 
 ## Preview
